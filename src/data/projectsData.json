@@ -4,7 +4,7 @@
     "title": "Portfolio Website",
     "description": "A personal portfolio built with React showcasing my projects, skills, and achievements with dark/light mode and smooth animations.",
     "image": "/images/portfolio.png",
-    "liveLink": "portfolio-one-lyart-43.vercel.app",
+    "liveLink": "https://portfolio-one-lyart-43.vercel.app/",
     "githubLink": "https://github.com/sunaina/portfolio"
   },
 {
