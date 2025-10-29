@@ -1,0 +1,61 @@
+[
+  {
+    "id": 1,
+    "title": "Portfolio Website",
+    "description": "A personal portfolio built with React showcasing my projects, skills, and achievements with dark/light mode and smooth animations.",
+    "image": "/images/portfolio.png",
+    "liveLink": "https://sunaina-portfolio.netlify.app",
+    "githubLink": "https://github.com/sunaina/portfolio"
+  },
+{
+    "id": 2,
+    "title": "Primex Industries",
+    "description": "A professional company website for Primex Industries, designed in WordPress to showcase their products, services, and industrial expertise."
+,
+    "image": "/images/primex.png",
+    "liveLink": "https://primexindustries.co/",
+    "githubLink": "https://github.com/sunaina/numitch-website"
+  },
+   {
+    "id": 6,
+    "title": "WaterBill Website",
+    "description": "A smart and user-friendly water billing management system that allows easy entry, update, and tracking of consumer bills with multilingual (Punjabi/English) support and downloadable Excel reports.",
+    "image": "/images/water.png",
+    "liveLink": "https://waterbill.yzz.me/",
+    "githubLink": "https://github.com/sunaina/salon-booking"
+  },
+  {
+    "id": 3,
+    "title": "Bhatoy's Job portal",
+    "description": "A job portal website where recruiters can post job openings and employees can easily apply for positions — built using PHP, HTML, MySQL, and Bootstrap CSS."
+,
+    "image": "/images/jobportal.png",
+    "liveLink": "https://bhatoyjobportal.yzz.me/",
+    "githubLink": "https://github.com/sunaina/numitch-website"
+  },
+  {
+    "id": 4,
+    "title": "Salon booking, Blogging and Ecommerce Website ",
+    "description": "An e-commerce and booking website where users can buy beauty products and book bridal and other salon services — built with PHP, HTML, MySQL and Bootstrap CSS.",
+    "image": "/images/eloria.png",
+    "liveLink": "https://gloss-touch.yzz.me/",
+    "githubLink": "https://github.com/sunaina/salon-booking"
+  },
+    {
+    "id": 5,
+    "title": "Kindrops-Blood Bank",
+    "description": "A salon booking web app built with PHP and MySQL where users can schedule appointments and manage bookings easily.",
+    "image": "/images/blood.png",
+    "liveLink": "https://kinddrops.yzz.me/",
+    "githubLink": "https://github.com/sunaina/salon-booking"
+  },
+  
+    {
+    "id": 7,
+    "title": "Pocket Notes App",
+    "description": "A simple React notes application allowing users to create, group, and manage notes with a responsive sidebar and local storage support.",
+    "image": "/images/pocket notes.png",
+    "liveLink": "https://pocket-notes-roan.vercel.app/",
+    "githubLink": "https://github.com/sunaina/pocket-notes"
+  }
+]
